@@ -4,7 +4,7 @@
 🌱 Currently learning Data Structures & Algorithms (DSA) and Full-Stack Development  
 
 💻 Technologies & Concepts I Know:
-- Backend: Spring Boot, Node.js, Express, JPA, Hibernate  
+- Backend: Spring Boot, JPA, Hibernate  
 - Frontend: React.js, HTML, CSS  
 - Cybersecurity: Network Security, Threat Analysis, Secure Coding  
 - AI/ML: Machine Learning  
